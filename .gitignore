@@ -1,0 +1,16 @@
+# Excluir carpeta .vscode (configuración de VS Code)
+.vscode/
+
+# Archos del sistema
+.DS_Store
+Thumbs.db
+
+# Archos temporales
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Dependencias
+node_modules/
